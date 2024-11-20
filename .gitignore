@@ -1,0 +1,7 @@
+# Example .gitignore
+__pycache__/
+*.pyc
+env/
+db.sqlite3
+media/
+workshop_env
